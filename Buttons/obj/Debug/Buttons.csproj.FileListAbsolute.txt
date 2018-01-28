@@ -1,0 +1,14 @@
+c:\users\serenity\documents\visual studio 2015\Projects\Buttons\Buttons\bin\Debug\Buttons.exe.config
+C:\Users\serenity\documents\visual studio 2015\Projects\Buttons\Buttons\bin\Debug\Buttons.exe
+C:\Users\serenity\documents\visual studio 2015\Projects\Buttons\Buttons\bin\Debug\Buttons.pdb
+C:\Users\serenity\documents\visual studio 2015\Projects\Buttons\Buttons\obj\Debug\Buttons.csprojResolveAssemblyReference.cache
+C:\Users\serenity\documents\visual studio 2015\Projects\Buttons\Buttons\obj\Debug\MainWindow.g.cs
+C:\Users\serenity\documents\visual studio 2015\Projects\Buttons\Buttons\obj\Debug\App.g.cs
+C:\Users\serenity\documents\visual studio 2015\Projects\Buttons\Buttons\obj\Debug\Buttons_MarkupCompile.cache
+C:\Users\serenity\documents\visual studio 2015\Projects\Buttons\Buttons\obj\Debug\Buttons_MarkupCompile.lref
+C:\Users\serenity\documents\visual studio 2015\Projects\Buttons\Buttons\obj\Debug\MainWindow.baml
+C:\Users\serenity\documents\visual studio 2015\Projects\Buttons\Buttons\obj\Debug\Buttons.g.resources
+C:\Users\serenity\documents\visual studio 2015\Projects\Buttons\Buttons\obj\Debug\Buttons.Properties.Resources.resources
+C:\Users\serenity\documents\visual studio 2015\Projects\Buttons\Buttons\obj\Debug\Buttons.csproj.GenerateResource.Cache
+C:\Users\serenity\documents\visual studio 2015\Projects\Buttons\Buttons\obj\Debug\Buttons.exe
+C:\Users\serenity\documents\visual studio 2015\Projects\Buttons\Buttons\obj\Debug\Buttons.pdb

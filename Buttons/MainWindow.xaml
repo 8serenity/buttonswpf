@@ -1,0 +1,46 @@
+﻿<Window x:Class="Buttons.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Buttons"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Width="100" Height="100" Content="Just button 1" Margin="-300 0 0 0" Click="Click1">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Height="100" Width="100" Fill="RosyBrown" ></Ellipse>
+                        <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"></ContentPresenter>
+                    </Grid>
+
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button Width="100" Height="100" Content="Just button 3" Margin="300 0 0 0" Click="Click3">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Height="50" Width="100" Fill="Gray" ></Ellipse>
+                        <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"></ContentPresenter>
+                    </Grid>
+
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Button Content="Just button 2" Height="100" Width="100" Click="Click2">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Path Fill="{TemplateBinding Background}"
+                            Data="M 0,0 A 100,100 90 0 0 100,100 L 100,100 100,0" />
+                        <ContentPresenter></ContentPresenter>
+                    </Grid>
+
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+    </Grid>
+</Window>
